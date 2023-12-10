@@ -1,0 +1,98 @@
+#lateral{
+    height: 100vh;
+    width: 20vw;
+    background-color: black;
+}
+
+#icone{
+    height: 20vh;
+    width: 10vw;
+    background-image: url(user.png);
+    background-size: cover;
+    margin-left: 5vw;
+   
+    
+}
+
+#sair{
+    width: 5vw;
+    height: 5vh;
+    color: red;
+    text-decoration: none;
+
+}
+
+
+.cat1{
+    width: 20vw;
+    height: 10vh;
+    background-color: gray;
+    margin-top: 20vh;
+    
+}
+
+.cat2{
+    width: 20vw;
+    height: 10vh;
+    background-color: gray;
+    margin-top: 5vh;
+    
+    
+}
+
+.cat3{
+    width: 20vw;
+    height: 10vh;
+    background-color: gray;
+    margin-top: 5vh;
+    
+    
+}
+
+.graf1{
+    width: 72vw;
+    height: 90vh;
+    background-image: url(graf1.png);
+    background-size: cover;
+    border: 1px solid black;
+    margin-top: -95vh;
+    margin-left: 25vw;
+
+}
+
+.graf2{
+    width: 72vw;
+    height: 90vh;
+    background-image: url(graf2.png);
+    background-size: cover;
+    border: 1px solid black;
+    margin-top: -95vh;
+    margin-left: 25vw;
+
+}
+
+
+.graf3{
+    width: 72vw;
+    height: 90vh;
+    background-image: url(graf3.png);
+    background-size: cover;
+    border: 1px solid black;
+    margin-top: -95vh;
+    margin-left: 25vw;
+
+}
+
+
+.graf4{
+    width: 72vw;
+    height: 90vh;
+    background-image: url(graf4.jpg);
+    background-size: cover;
+    border: 1px solid black;
+    margin-top: -95vh;
+    margin-left: 25vw;
+
+}
+
+
